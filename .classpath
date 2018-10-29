@@ -2,5 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/GitHub/Sipradi_Class/lib/exceldataprovider.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/Sipradi_Class/lib/excelreader_selenium-v3.1.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/Sipradi_Class/lib/selenium-chrome-driver-3.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/Sipradi_Class/lib/selenium-server-standalone-3.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/Sipradi_Class/lib/testng-6.11.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
