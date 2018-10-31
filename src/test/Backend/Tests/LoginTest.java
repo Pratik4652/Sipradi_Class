@@ -1,15 +1,22 @@
 package test.Backend.Tests;
 
+import org.testng.annotations.Test;
+
 import test.Backend.Elements.DashboardElements;
 
 public class LoginTest extends SetupAndTeardown {
 	
+	@Test
 	public void LoginPage() {
-		DashboardElements de = new DashboardElements(driver);
+		DashboardElements dashboardObject = new DashboardElements(driver);
 		
-		de.SetEmail();
-		de.SetPassword();
-		de.ClickLoginButton();
+		dashboardObject.SetEmail();
+		dashboardObject.SetPassword();
+		dashboardObject.ClickLoginButton();
+		
+		System.out.println("Login test Successful");
 	}
+	
+
 
 }

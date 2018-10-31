@@ -36,4 +36,26 @@ public class DashboardElements {
     	LoginButtonElement.click();
     }
     
+    //*******************************Booking**********************************
+    @FindBy(xpath="//a[@title='Booking']")
+    WebElement BookingDropdnElement;
+    
+    @FindBy(xpath="//a[@title='Booking Request']")
+    WebElement BookingRequestBtnElement;
+    
+    @FindBy(xpath="//a[@title='Booking Email Config']")
+    WebElement BookingEmailConfigBtnElement;
+    
+    public void BookingDropdnClick() {
+    	BookingDropdnElement.click();
+    	
+    }
+    public void BookingRequestBtnClick() {
+    	BookingRequestBtnElement.click();
+    }
+    
+    public void BookingEmailConfigBtnClick() {
+    	BookingEmailConfigBtnElement.click();
+    }
+    
 }
