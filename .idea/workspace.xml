@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b23bac4a-40b3-4ec3-97d2-3c58fe0ac31c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/Backend/Tests/DeletePoiFm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Backend/Tests/AddEkInNameFM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excels/poiDatatest.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Excels/poiDatatest.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Backend/Data/DataForEmails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Backend/Data/DataForEmails.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,52 +12,52 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-346520582">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="424" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Backend/Elements/BookingPageElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Backend/Tests/SetupAndTeardown.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="27" selection-start-column="27" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Backend/Tests/LoginTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/Backend/Tests/AddPoiFM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="27" column="117" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="117" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="280">
+              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Backend/Data/DataForEmails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/Backend/Tests/DeletePoiFm.java">
+        <entry file="file://$PROJECT_DIR$/src/test/Backend/Tests/AddEkInNameFM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            <state relative-caret-position="640">
+              <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,9 +81,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/Backend/parser/ExcelFileParser.java" />
-        <option value="$PROJECT_DIR$/src/test/Backend/Data/DataForEmails.java" />
         <option value="$PROJECT_DIR$/src/test/Backend/Tests/AddPoiFM.java" />
         <option value="$PROJECT_DIR$/src/test/Backend/Tests/DeletePoiFm.java" />
+        <option value="$PROJECT_DIR$/src/test/Backend/Data/DataForEmails.java" />
+        <option value="$PROJECT_DIR$/src/test/Backend/Tests/AddEkInNameFM.java" />
       </list>
     </option>
   </component>
@@ -101,6 +102,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -108,6 +110,11 @@
             <path>
               <item name="Sipradi_Class" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sipradi_Class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sipradi_Class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sipradi_Class" type="462c0819:PsiDirectoryNode" />
+              <item name="Excels" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Sipradi_Class" type="b2602c69:ProjectViewProjectNode" />
@@ -139,18 +146,24 @@
               <item name="Sipradi_Class" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Backend" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sipradi_Class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sipradi_Class" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Backend" type="462c0819:PsiDirectoryNode" />
               <item name="Tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553432212629" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553850709465" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -173,8 +186,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DeletePoiFm.deletePoi">
-    <configuration name="AddPoiFM.EnterPoi" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.AddEkInNameFM.AddEk">
+    <configuration name="AddEkInNameFM.AddEk" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Sipradi_Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Backend.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.Backend.Tests" />
+      <option name="MAIN_CLASS_NAME" value="test.Backend.Tests.AddEkInNameFM" />
+      <option name="METHOD_NAME" value="AddEk" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddPoiFM.EnterPoi" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Sipradi_Class" />
       <extension name="coverage">
         <pattern>
@@ -192,7 +223,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeletePoiFm.deletePoi" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DeletePoiFm.deletePoi" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Sipradi_Class" />
       <extension name="coverage">
         <pattern>
@@ -210,8 +241,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.AddPoiFM.EnterPoi" />
+      <item itemvalue="TestNG.DeletePoiFm.deletePoi" />
+      <item itemvalue="TestNG.AddEkInNameFM.AddEk" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AddEkInNameFM.AddEk" />
         <item itemvalue="TestNG.DeletePoiFm.deletePoi" />
         <item itemvalue="TestNG.AddPoiFM.EnterPoi" />
       </list>
@@ -231,46 +268,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddPoiFM_EnterPoi - 2019.03.23 at 21h 38m 12s.xml">
-      <configuration name="AddPoiFM.EnterPoi" configurationId="TestNG" />
+    <history-entry file="AddEkInNameFM_AddEk - 2019.03.29 at 14h 22m 43s.xml">
+      <configuration name="AddEkInNameFM.AddEk" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AddPoiFM_EnterPoi - 2019.03.23 at 21h 40m 20s.xml">
-      <configuration name="AddPoiFM.EnterPoi" configurationId="TestNG" />
+    <history-entry file="AddEkInNameFM_AddEk - 2019.03.29 at 14h 23m 38s.xml">
+      <configuration name="AddEkInNameFM.AddEk" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AddPoiFM_EnterPoi - 2019.03.23 at 21h 45m 12s.xml">
-      <configuration name="AddPoiFM.EnterPoi" configurationId="TestNG" />
+    <history-entry file="AddEkInNameFM_AddEk - 2019.03.29 at 14h 27m 31s.xml">
+      <configuration name="AddEkInNameFM.AddEk" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DeletePoiFm_deletePoi - 2019.03.24 at 18h 20m 54s.xml">
-      <configuration name="DeletePoiFm.deletePoi" configurationId="TestNG" />
+    <history-entry file="AddEkInNameFM_AddEk - 2019.03.29 at 14h 30m 57s.xml">
+      <configuration name="AddEkInNameFM.AddEk" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DeletePoiFm_deletePoi - 2019.03.24 at 18h 27m 10s.xml">
-      <configuration name="DeletePoiFm.deletePoi" configurationId="TestNG" />
+    <history-entry file="AddEkInNameFM_AddEk - 2019.03.29 at 14h 32m 28s.xml">
+      <configuration name="AddEkInNameFM.AddEk" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DeletePoiFm_deletePoi - 2019.03.24 at 18h 28m 03s.xml">
-      <configuration name="DeletePoiFm.deletePoi" configurationId="TestNG" />
+    <history-entry file="AddEkInNameFM_AddEk - 2019.03.29 at 14h 33m 11s.xml">
+      <configuration name="AddEkInNameFM.AddEk" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DeletePoiFm_deletePoi - 2019.03.24 at 18h 30m 15s.xml">
-      <configuration name="DeletePoiFm.deletePoi" configurationId="TestNG" />
+    <history-entry file="AddEkInNameFM_AddEk - 2019.03.29 at 14h 34m 01s.xml">
+      <configuration name="AddEkInNameFM.AddEk" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DeletePoiFm_deletePoi - 2019.03.24 at 18h 33m 57s.xml">
-      <configuration name="DeletePoiFm.deletePoi" configurationId="TestNG" />
+    <history-entry file="AddEkInNameFM_AddEk - 2019.03.29 at 14h 34m 59s.xml">
+      <configuration name="AddEkInNameFM.AddEk" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DeletePoiFm_deletePoi - 2019.03.24 at 18h 39m 13s.xml">
-      <configuration name="DeletePoiFm.deletePoi" configurationId="TestNG" />
+    <history-entry file="AddEkInNameFM_AddEk - 2019.03.29 at 14h 37m 30s.xml">
+      <configuration name="AddEkInNameFM.AddEk" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DeletePoiFm_deletePoi - 2019.03.24 at 18h 41m 28s.xml">
-      <configuration name="DeletePoiFm.deletePoi" configurationId="TestNG" />
+    <history-entry file="AddEkInNameFM_AddEk - 2019.03.29 at 14h 42m 18s.xml">
+      <configuration name="AddEkInNameFM.AddEk" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1704698" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -278,7 +316,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.4220963" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.34468085" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -291,15 +329,24 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/Backend/Tests/DeletePoiFm.java" />
     <entry file="file://$PROJECT_DIR$/src/test/Backend/parser/ExcelFileParser.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Backend/Elements/BookingPageElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="460">
           <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
         </state>
       </provider>
@@ -313,35 +360,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Backend/Tests/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="340">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Backend/Data/DataForEmails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Backend/Tests/AddPoiFM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="117" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="117" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="280">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Backend/Tests/DeletePoiFm.java">
+    <entry file="file://$PROJECT_DIR$/src/test/Backend/Data/DataForEmails.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        <state relative-caret-position="300">
+          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Backend/Tests/AddEkInNameFM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

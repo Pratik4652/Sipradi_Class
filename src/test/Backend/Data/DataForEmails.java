@@ -20,6 +20,15 @@ public class DataForEmails {
         return myData;
     }
 
+    @DataProvider(name = "UsernameData")
+    public static Object[][] Username() throws Exception {
+
+        String xlFilePath = "./Excels/driver_details.xlsx";
+        String sheetName = "Sheet1";
+        Object[][] myData = testData(xlFilePath, sheetName);
+        return myData;
+    }
+
     public static Object[][] testData(String xlFilePath, String sheetName) throws Exception {
 
         ExcelFileParser excelParserObj = new ExcelFileParser(xlFilePath);
